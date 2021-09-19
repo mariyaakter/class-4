@@ -1,0 +1,16 @@
+.first h1{
+	  background: black;
+	  height:150 ;
+	  width: 450;
+	  position:relative ;
+	}
+.sometimes {
+	height: 200px;
+	width: 200px;
+	background: green;
+	position: adsolute; 
+    top: 25px;
+    left: 20px;
+
+}
+a{}
